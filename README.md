@@ -4,7 +4,7 @@ A fully automatic discord chat based bot that can update amumss/lua based mods (
 # Configuration
 
 - In bot.lua change BOT_TOKEN, guildname, CHANNEL, this_dir, AllowedRolesCustomMod
-- In steamcmd/UpdateGame.bat change STEAM_USERNAME and STEAM_PASSWORD 
+- In steamcmd/UpdateGame.bat change STEAM_USERNAME, STEAM_PASSWORD and the path
 - Use start.bat to start the bot
 
 # Usage
